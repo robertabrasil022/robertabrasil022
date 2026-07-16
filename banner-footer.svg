@@ -1,0 +1,13 @@
+<svg width="100%" height="100" viewBox="0 0 1200 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="footer banner">
+  <defs>
+    <linearGradient id="bgFooter" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#14B8A6"/>
+      <stop offset="100%" stop-color="#6366F1"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="100" fill="url(#bgFooter)"/>
+
+  <path d="M0,60 C220,90 380,42 600,58 C820,74 980,48 1200,64 L1200,100 L0,100 Z" fill="rgba(255,255,255,0.08)"/>
+  <path d="M0,72 C260,52 440,88 700,70 C900,58 1040,78 1200,68 L1200,100 L0,100 Z" fill="rgba(255,255,255,0.06)"/>
+</svg>
