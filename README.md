@@ -1,6 +1,6 @@
 <div align="center">
 <img src="./banner-header.svg" width="100%"/>
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UFAM;Full-stack+%C2%B7+Data+Engineering+%C2%B7+Automation;Building+with+Next.js%2C+FastAPI+%26+RAG;Open+to+internship+opportunities+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+UFAM;Full-stack+%C2%B7+Data+Engineering+%C2%B7+Automation;Building+with+Next.js%2C+FastAPI+%26+RAG;Open+to+internship+opportunities+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" /></a>
  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertabrasil21)
